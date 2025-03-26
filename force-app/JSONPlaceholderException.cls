@@ -1,2 +1,2 @@
-public with sharing class JSONPlaceholderException {
+public with sharing class JSONPlaceholderException extends Exception{
 }
